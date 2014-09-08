@@ -1,4 +1,4 @@
 Data-Science
 ============
 
-I am passionate 
+I am passionate about learning
